@@ -14,13 +14,7 @@ Copy code
 ├── chatbot.js        # JavaScript file that handles chatbot logic
 ├── chatbot.css       # CSS file for styling
 └── README.md         # Project documentation
-How to Run the Project
-Clone or download the repository to your local machine.
-
-bash
-Copy code
-git clone https://github.com/your-username/chatbot-js.git
-Open the chatbot.html file in any modern browser.
+How to Run the Project:
 
 Type questions or greetings into the input field and press "Enter" to interact with the chatbot.
 
