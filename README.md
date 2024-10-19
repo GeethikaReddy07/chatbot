@@ -20,7 +20,7 @@ Clone or download the repository to your local machine.
 bash
 Copy code
 git clone https://github.com/your-username/chatbot-js.git
-Open the index.html file in any modern browser.
+Open the chatbot.html file in any modern browser.
 
 Type questions or greetings into the input field and press "Enter" to interact with the chatbot.
 
